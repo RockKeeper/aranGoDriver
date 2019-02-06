@@ -2,9 +2,8 @@ package framed
 
 import (
 	"encoding/json"
-
 	"github.com/Jeffail/gabs"
-	"github.com/TobiEiss/aranGoDriver"
+	"github.com/RockKeeper/aranGoDriver"
 )
 
 // Database represent a arangodb-database

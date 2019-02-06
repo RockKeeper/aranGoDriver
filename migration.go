@@ -1,7 +1,7 @@
 package aranGoDriver
 
 import (
-	"github.com/TobiEiss/aranGoDriver/models"
+	"github.com/RockKeeper/aranGoDriver/models"
 )
 
 // MigrationStatus is like a enum and represent the status

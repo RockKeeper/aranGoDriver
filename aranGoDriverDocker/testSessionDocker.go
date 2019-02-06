@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TobiEiss/aranGoDriver"
+	"github.com/RockKeeper/aranGoDriver"
 
 	dockertest "gopkg.in/ory-am/dockertest.v3"
 )

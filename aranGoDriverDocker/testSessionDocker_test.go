@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/TobiEiss/aranGoDriver/aranGoDriverDocker"
+	"github.com/RockKeeper/aranGoDriver/aranGoDriverDocker"
 )
 
 func TestArangoDBDocker(t *testing.T) {

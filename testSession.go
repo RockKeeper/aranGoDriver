@@ -5,14 +5,14 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/TobiEiss/aranGoDriver/models"
+	"github.com/RockKeeper/aranGoDriver/models"
 
 	"errors"
 	"math/rand"
 
 	"encoding/json"
 
-	"github.com/TobiEiss/aranGoDriver/sliceTricks"
+	"github.com/RockKeeper/aranGoDriver/sliceTricks"
 	"github.com/fatih/structs"
 )
 

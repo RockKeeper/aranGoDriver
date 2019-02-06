@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/TobiEiss/aranGoDriver/aranGoConnection"
-	"github.com/TobiEiss/aranGoDriver/models"
+	"github.com/RockKeeper/aranGoDriver/aranGoConnection"
+	"github.com/RockKeeper/aranGoDriver/models"
 )
 
 // AranGoSession represent to Session

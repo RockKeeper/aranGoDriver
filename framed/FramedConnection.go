@@ -1,6 +1,6 @@
 package framed
 
-import "github.com/TobiEiss/aranGoDriver"
+import "github.com/RockKeeper/aranGoDriver"
 
 type FramedConnection struct {
 	Session *aranGoDriver.Session

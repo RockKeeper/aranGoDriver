@@ -2,3 +2,6 @@
 .info
 debug*
 framed/FramedConnection_test.go
+.idea
+vendor
+!vendor/modules.txt

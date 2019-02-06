@@ -6,9 +6,9 @@ import (
 
 	"flag"
 
-	"github.com/TobiEiss/aranGoDriver"
-	"github.com/TobiEiss/aranGoDriver/models"
-	"github.com/TobiEiss/aranGoDriver/sliceTricks"
+	"github.com/RockKeeper/aranGoDriver"
+	"github.com/RockKeeper/aranGoDriver/models"
+	"github.com/RockKeeper/aranGoDriver/sliceTricks"
 )
 
 var (
