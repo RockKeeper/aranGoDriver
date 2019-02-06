@@ -19,7 +19,7 @@ If you miss something, please contact me!
 All you need is a running Arango-DB and a go-environment.
 
 Install aranGoDriver:
-`go get github.com/TobiEiss/aranGoDriver`
+`go get github.com/RockKeeper/aranGoDriver`
 
 Write your first aranGoDriver-Programm:
 ```golang
